@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Crypto-Calculator/static/css/main.8d03fbea.css",
+    "main.js": "/Crypto-Calculator/static/js/main.e021405a.js",
+    "static/js/377.41def236.chunk.js": "/Crypto-Calculator/static/js/377.41def236.chunk.js",
+    "static/media/calculatorhome2.png": "/Crypto-Calculator/static/media/calculatorhome2.b6d648ac9ae65bb693df.png",
+    "service-worker.js": "/Crypto-Calculator/service-worker.js",
+    "index.html": "/Crypto-Calculator/index.html",
+    "main.8d03fbea.css.map": "/Crypto-Calculator/static/css/main.8d03fbea.css.map",
+    "main.e021405a.js.map": "/Crypto-Calculator/static/js/main.e021405a.js.map",
+    "377.41def236.chunk.js.map": "/Crypto-Calculator/static/js/377.41def236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d03fbea.css",
+    "static/js/main.e021405a.js"
+  ]
+}
